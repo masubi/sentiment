@@ -84,6 +84,15 @@ Word embeddings are a technique of taking a prior learned relationship between d
 4. run python3 sentiment.py 
 
 # Performance/Results:
+* dark blue = dense(128) w/ sgd
+* green = conv1d layer and max pooling w/ sgd 
+* light blue = single lstm w/ sgd
+* gray = bidirectional dual layer lstm w/ adam
+
+![loss](images/loss.jpg "Loss")
+![accuracy](images/acc.jpg "Accuracy")
+![f1](images/f1.jpg "F1")
+
 
 # Ideas for Future Improvements:
 * use of domain specific training/test data i.e. from production
