@@ -58,7 +58,7 @@ Word embeddings are a technique of taking a prior learned relationship between d
 ```bash
 cat testdata.manual.2009.06.14.csv > tmp.csv
 cat training.1600000.processed.noemoticon.csv >> tmp.csv
-cat tmp.csv | cut -d "," -f 6 | cut -d "\"" -f2 | tr -d '\n'
+cat tmp.csv | cut -d "," -f 6 | cut -d "\"" -f2 | tr -d '\n' > twitter_corpus.txt
 ```
 
 * Run below line
