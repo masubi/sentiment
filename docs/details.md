@@ -118,3 +118,11 @@ Word embeddings are a technique of taking a prior learned relationship between d
 * Ng, A. 2018, "Deep Learning Specialization", Coursera, Homework/Lecture Notes, viewed 28 March 2018, <https://www.coursera.org/specializations/deep-learning>
 * LSTM paper:  Gers, F. A., Schmidhuber, J., and Cummins, F. (2000). Learning to forget: Continual prediction with LSTM. Neural Computation, 12(10):2451–2471.
 * Twitter paper:  Pak, A & Paroubek, P. (2010) Twitter as a Corpus for Sentiment Analysis and Opinion Mining. (European Language Resources Association (ELRA), Valletta, Malta).
+* Liu, Bing, and Lei Zhang. "A survey of opinion mining and sentiment analysis." Mining text data. Springer, Boston, MA, 2012. 415-463.
+* Zhang, Meishan, Yue Zhang, and Guohong Fu. "Tweet sarcasm detection using deep neural network." Proceedings of COLING 2016, The 26th International Conference on Computational Linguistics: Technical Papers. 2016.
+
+# Note on Source Code:
+
+I tried to put references and give appropriate attribution but some small snippets borrowed from other
+sources as I progressed through the dev process.  So if using in a commercial or academic setting, then appropriate to
+rewrite/refactor.  This is only for learning/ideas.
