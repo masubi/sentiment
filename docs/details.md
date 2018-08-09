@@ -108,10 +108,10 @@ Word embeddings are a technique of taking a prior learned relationship between d
 * sarcasm detection as a separate model/pipeline
 
 # References:
-* [sentiment specific word embeddings:](https://github.com/attardi/deepnl/wiki/Sentiment-Specific-Word-Embeddings)
-* [good resources for sentiment stuff:](https://github.com/laugustyniak/awesome-sentiment-analysis)
-* [original glove data:](https://nlp.stanford.edu/projects/glove/)
-* [pretrained glove:](http://nlp.stanford.edu/data/glove.twitter.27B.zip)
+* [sentiment specific word embeddings](https://github.com/attardi/deepnl/wiki/Sentiment-Specific-Word-Embeddings)
+* [good resources for sentiment stuff](https://github.com/laugustyniak/awesome-sentiment-analysis)
+* [original glove data](https://nlp.stanford.edu/projects/glove/)
+* [pretrained glove](http://nlp.stanford.edu/data/glove.twitter.27B.zip)
 * [fasttext](https://fasttext.cc/docs/en/unsupervised-tutorial.html)
 * [spacey](https://spacy.io/usage/vectors-similarity)
 * [twitter sentiment data](http://help.sentiment140.com/for-students/)
