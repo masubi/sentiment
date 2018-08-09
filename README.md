@@ -18,6 +18,8 @@ Sentiment Detection is the assignment of emotion label to a set of statements.  
 3. setup data files for training data, test data, and word embeddings
 4. run python3 sentiment.py 
 
+# [Detailed Discussion](docs/details.md)
+
 # Performance/Results:
 
 ## Comparison of Different Model Arch
