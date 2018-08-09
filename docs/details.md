@@ -55,6 +55,12 @@ Word embeddings are a technique of taking a prior learned relationship between d
 
 * Download fasttext(see references)
 * Parse data in a corpus for training(i.e. remove any unnecessary metadata). 
+```bash
+cat testdata.manual.2009.06.14.csv > tmp.csv
+cat training.1600000.processed.noemoticon.csv >> tmp.csv
+cat tmp.csv | cut -d "," -f 6 | cut -d "\"" -f2 | tr -d '\n'
+```
+
 * Run below line
 
 ```bash
